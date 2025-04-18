@@ -1,0 +1,3 @@
+EMAIL_FIELD: id=signIn-email
+PASSWORD_FIELD: id=signIn-password
+SIGNIN_BUTTON: id=signIn-signInButton

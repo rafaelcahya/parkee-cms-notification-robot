@@ -1,0 +1,23 @@
+BASE_URL: https://new-cms-staging.parkee.app/
+ENDPOINT_SIGNIN_URL: sign-in/
+ENDPOINT_NOTIFICATION_URL: dashboard/notifications/
+ENDPOINT_CREATE_NOTIFICATION_URL: new/
+
+SUPERUSER:
+    EMAIL: hello@parkee.app
+    PASSWORD: kinship-consult-timpani1
+
+INTERNAL_CS:
+    EMAIL: cahya.ugira+intcs@parkee.app
+    PASSWORD: kinship-consult-timpani7
+
+INTERNAL_MARKETING:
+    EMAIL: cahya.ugira+intm@parkee.app
+    PASSWORD: kinship-consult-timpani7
+
+TEXT: lorem
+256_TEXT: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+URL: https://www.google.com/
+
+IMAGE_100KB: dummyImage100kb.png
+IMAGE_10MB: dummyImage10MB.png
